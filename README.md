@@ -7,4 +7,4 @@ DLLの動的参照と、DLL内のイベントに自前のメソッドをフッ�
 ## [EventHandlerInvokeTest](https://github.com/dmorita0108/ReferenceDotNetCsharp/tree/master/EventHandlerInvokeTest)
 EventHandlerのInvoke()とBeginInvoke()の動作実験
 
-[Qiita - EventHandlerのInvoke()が同期実行であることに今まで気付かなかったから実験した話](https://qiita.com/dmorita/items/d1c8a188978bc233f36d)
+[Qiita - EventHandlerのInvoke()が同期実行であることに今まで気付かなかったから実験した](https://qiita.com/dmorita/items/d1c8a188978bc233f36d)
